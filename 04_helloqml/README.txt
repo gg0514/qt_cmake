@@ -22,4 +22,5 @@
     const QUrl url("qrc:/qt/qml/helloqml/main.qml");
     engine.load(url); 
     이부분을 아직 잘 모르겠음
+    https://www.qt.io/blog/whats-new-for-qml-modules-in-6.5 참고
 *** 
